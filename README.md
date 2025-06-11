@@ -2,7 +2,11 @@
 <h3 align="center">A passionate developer & tech enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartikbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="kartikbhardwaj" />
+  <img src="https://komarev.com/ghpvc/?username=mayankbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="mayankbhardwaj" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full+Stack+Developer;AI+Enthusiast;Tech+Explorer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,8 +15,7 @@
 - 🌱 I’m currently learning **Distributed Systems, Blockchain, and Machine Learning**
 - 👯 I’m looking to collaborate on **open-source projects and hackathons**
 - 💬 Ask me about **Python, Flask, Machine Learning, Java, SQL**
-- 📫 How to reach me: **[your_email@example.com]**
-- 📝 Portfolio: **[your personal site if any]**
+- 📫 How to reach me: **mayankbhardwaj8894@gmail.com**
 - ⚡ Fun fact: I love turning ideas into reality through code.
 
 ---
@@ -32,29 +35,19 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikbhardwaj&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikbhardwaj&theme=radical" alt="streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikbhardwaj&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ### 🏆 Certifications
 
-- 🥇 Sql (Basic)
-- 🥈 React(coursera)
-- 🧠 CLoud Computing (Nptel)
-- 💡 Built: Healthcare Diagnosis App, Healthcare Web App, and more
+- 🥇 SQL (Basic) – HackerRank
+- 🥈 React – Coursera
+- 🧠 Cloud Computing – NPTEL
+- 💡 Projects: Healthcare Diagnosis App, Healthcare Web App, and more
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/Mayankbhardwaj" target="blank">
+  <a href="https://www.linkedin.com/in/mayankbhardwaj/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
   </a>
   <a href="mailto:mayankbhardwaj8894@gmail.com">
